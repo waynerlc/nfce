@@ -1,0 +1,26 @@
+{
+    "name": "nfce",
+    "version": "0.1.0",
+    "description": "NFCe",
+    "main": "init.js",
+    "scripts": {
+        "test": "echo \"teste\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/waynerlc/nfce.git"
+    },
+    "keywords": [
+        "nfce"
+    ],
+    "author": "Wayner Coelho <waynerlc@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/waynerlc/nfce/issues"
+    },
+    "homepage": "https://github.com/waynerlc/nfce",
+    "dependencies": {
+      "serialport": ">= 1.4.6",
+      "chokidar": ">= 0.5.0"
+    },
+}
